@@ -15,7 +15,7 @@ icon: https://get.jenkins.io/art/jenkins-logo/logo.svg
 annotations:
   artifacthub.io/links: |
     - name: Chart Source
-      url: https://github.com/jenkinsci/helm-charts/tree/main/charts/jenkins
+      url: https://github.com/snair1137/jenkins-repo/tree/main/jenkins-mir
     - name: Jenkins
       url: https://www.jenkins.io/
   artifacthub.io/images: |
